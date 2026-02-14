@@ -2,10 +2,10 @@
 a = int(input("Enter your age:\t"))
 
 if(a>=18):
-    print("You can now watch a A rate movie")
+    print("You are above 18")
 elif(a<0):
     print("Enter your correct age")
 elif(a==0):
-    print("Go back to your mother pussy you bastard")
+    print("Wrong age")
 else:
-    print("Go Back and suck your thumb you mother fucker")
+    print("Enter a valid age")

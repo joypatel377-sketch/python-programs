@@ -1,11 +1,11 @@
-a =["sexxx","shrey ka chota",100,5000,22,221]
+a =["Fun","shrey",100,5000,22,221]
 for i in a:
     print(i)
 
-b = ("kabir loda","shrey gandu","Joy",99)
+b = ("kabir","shrey","Joyboy",99)
 for i in b:
     print(i)
 
-c = "Naga baba"
+c = "Jam"
 for i in c:
      print(i) 

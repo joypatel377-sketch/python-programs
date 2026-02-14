@@ -1,7 +1,7 @@
 a = input("Enter a username:\t")
 
 if(len(a)<10):
-    print("10 number ka username hai lode")
+    print("Enter a 10 number Digit")
 
 else:
-    print("Lode abb maje kar login ho gaya")
+    print("login ho gaya")

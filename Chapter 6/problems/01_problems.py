@@ -12,4 +12,4 @@ elif(c>b and c>a and c>d):
 elif(d>b and d>c and d>a):
     print("d is the greatest:\t",d)
 else:
-    print("Sahi Number daal bsdk:\t")
+    print("Enter a valid number:\t")

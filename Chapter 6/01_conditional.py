@@ -1,6 +1,6 @@
 a = int(input("Enter your age:\t"))
 
 if(a>=18):
-    print("You can now watch a A rate movie")
+    print("You are above 18")
 else:
-    print("Go Back and suck your thumb you mother fucker")
+    print("You are below 18")
