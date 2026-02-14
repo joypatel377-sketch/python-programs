@@ -1,0 +1,5 @@
+a = set()
+a.add(int(18))
+print(a)
+a.add(str(18))
+print(a)
